@@ -71,5 +71,8 @@ public class MetaDatos
     public int getAnno(){
     return this.anno;
     }
+    public void setTitulo(String m){
+    this.Titulo=m;
+    }
 }
 
